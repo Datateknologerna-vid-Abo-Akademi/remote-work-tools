@@ -44,6 +44,15 @@ Notion offers a free plan with more than enough storage, and a paid plan for mor
 
 ## Other tools
 
+### Pomodoro timer
+
+Pomodoro timers (or tomato timers) are used to structure your time usage and work routine by splitting it up to 25 minutes of work and 5 minutes of break. 
+Every fourth break is a longer break, 15 or 25 minutes. 
+
+Read more about the technique here: <https://en.wikipedia.org/wiki/Pomodoro_Technique>
+
+One web based timer can be found here: <https://pomodoro-tracker.com>
+
 ## Tools for wasting time productively
 
 Online Chess: <https://lichess.org/>
