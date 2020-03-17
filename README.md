@@ -4,7 +4,7 @@ Collection of useful tools for remote work
 ## Messaging
 
 ## Meetings and conferencing
-As endorsed by the almighty ÅA: https://zoom.us/ (free version not fully featured)
+As endorsed by the almighty ÅA: https://aboakademi.zoom.us/
 
 Jitsi: https://jitsi.org/
 
