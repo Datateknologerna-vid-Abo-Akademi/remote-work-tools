@@ -1,4 +1,5 @@
-# remote-work-tools
+# Remote work tools
+
 Collection of useful tools for remote work
 
 ## Messaging
@@ -35,6 +36,6 @@ Allows you to store, share and edit documents online. Perfect for collaboration.
 
 ## Tools for wasting time productively
 
-Online Chess: https://lichess.org/
+Online Chess: <https://lichess.org/>
 
-Find free online courses: https://www.classcentral.com/
+Find free online courses: <https://www.classcentral.com/>
