@@ -1,6 +1,8 @@
 # Remote work tools
 
-Collection of useful tools for remote work
+Collection of useful tools for remote work.
+
+If you want to expand this list, [submit a request here](https://github.com/Datateknologerna-vid-Abo-Akademi/remote-work-tools/issues/new?assignees=&labels=enhancement&template=new-tool-request.md&title=%5BTOOL%5D).
 
 ## Messaging
 
