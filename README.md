@@ -1,2 +1,10 @@
 # remote-work-tools
-Useful collection of tools for remote work
+Collection of useful tools for remote work
+
+## Messaging
+
+## Meetings and conferencing
+
+## Document management
+
+## Other tools
