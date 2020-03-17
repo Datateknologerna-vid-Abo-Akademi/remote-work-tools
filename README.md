@@ -18,7 +18,7 @@ Slack is a widely used messaging app for team collaboration. It offers channels 
 
 As endorsed by the almighty ÅA: <https://aboakademi.zoom.us/>
 
-Can be run directly in the browser (Chrome, Firefox) or downloaded as a desktop/mobile app.
+Can be run directly in the browser (Chrome, Safari, not Firefox) or downloaded as a desktop/mobile app.
 
 ### Jitsi
 
