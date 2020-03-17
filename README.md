@@ -4,6 +4,7 @@ Collection of useful tools for remote work
 ## Messaging
 
 ## Meetings and conferencing
+As endorsed by the almighty ÅA: https://zoom.us/
 
 ## Document management
 
