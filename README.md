@@ -32,7 +32,15 @@ Jitsi is a completely free online conferencing tool that does not require regist
 
 <https://www.google.com/drive/>
 
-Allows you to store, share and edit documents online. Perfect for collaboration.
+Allows you to store, share and edit documents online. Perfect for collaboration. Does require a Google account, but you probably already have one.
+
+### Notion
+
+<https://www.notion.so/>
+
+Notion is a tool for taking notes, planning tasks and collaborating. It offers separate sections for separating your notes and offers both personal and organisation folders.
+
+Notion offers a free plan with more than enough storage, and a paid plan for more features and storage. You can use it in on any device or browser.
 
 ## Other tools
 
