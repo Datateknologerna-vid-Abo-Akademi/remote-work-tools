@@ -57,4 +57,6 @@ One web based timer can be found here: <https://pomodoro-tracker.com>
 
 Online Chess: <https://lichess.org/>
 
+Learn or get better at coding: <https://www.codewars.com/>
+
 Find free online courses: <https://www.classcentral.com/>
