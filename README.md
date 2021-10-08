@@ -42,6 +42,12 @@ Notion is a tool for taking notes, planning tasks and collaborating. It offers s
 
 Notion offers a free plan with more than enough storage, and a paid plan for more features and storage. You can use it in on any device or browser.
 
+### Edworking
+
+<https://www.edworking.com>
+
+One platform for you and your team. Try the best experience with everything that you need for a remote work together. Your task, your chats, your files, your videoconferences working together like team.
+
 ## Other tools
 
 ### Pomodoro timer
